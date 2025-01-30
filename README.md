@@ -80,4 +80,3 @@ Replace `your-network` with `localhost`, `rinkeby`, `goerli`, etc.
 This project is licensed under the **MIT License**.
 
 ---
-Feel free to modify the `README.md` to match your specific needs before uploading to GitHub. 🚀
