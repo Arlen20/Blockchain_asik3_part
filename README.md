@@ -1,5 +1,7 @@
 # AITUSE2315 & AITUSE2315_2 Smart Contracts
 
+Done by SE-2315: Baibossyn Arlen, Tlegenova Kamilya, Nuray Kabylkhanova.
+
 ## Overview
 This repository contains two Solidity smart contracts: **AITUSE2315** and **AITUSE2315_2**. Both contracts implement ERC-20 token functionality using OpenZeppelin's standard implementation. Additionally, comprehensive unit tests have been written using Hardhat to ensure their correctness.
 
